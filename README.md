@@ -47,7 +47,7 @@
           <div class="bg-gray-200 border-2 border-dashed rounded-xl w-24 h-24 mx-auto mb-6"></div>
           <h3 class="text-2xl font-bold mb-3">Isola Bella Genie Reel</h3>
           <p class="text-gray-600 mb-4">Voice-narrated buyer magnet with concierge CTA</p>
-          <a href="isola-bella-genie-reel.mp4" class="bg-amber-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800">Play Reel →<a href="/rh-realty-labworks/isola-bella-genie-reel.mp4" class="bg-amber-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800">Play Reel →</a>
+          <a href="isola-bella-genie-reel.mp4" class="bg-amber-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800">Play Reel →</a>
         </div>
 
       </div>
