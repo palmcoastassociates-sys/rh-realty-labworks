@@ -30,22 +30,26 @@
     <div class="container mx-auto px-6">
       <h2 class="text-4xl md:text-5xl font-bold text-center mb-16">Live Prototypes & Tools</h2>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl mx-auto">
+
         <div class="bg-gray-50 p-10 rounded-2xl text-center border border-gray-200">
           <div class="bg-gray-200 border-2 border-dashed rounded-xl w-24 h-24 mx-auto mb-6"></div>
           <h3 class="text-2xl font-bold mb-3">Agent Recruiting Funnel</h3>
           <p class="text-gray-600">Interactive application + video embeds</p>
         </div>
+
         <div class="bg-gray-50 p-10 rounded-2xl text-center border border-gray-200">
           <div class="bg-gray-200 border-2 border-dashed rounded-xl w-24 h-24 mx-auto mb-6"></div>
           <h3 class="text-2xl font-bold mb-3">Social Proof Gallery</h3>
           <p class="text-gray-600">Live Instagram & TikTok feed + testimonials</p>
         </div>
-        </div>
+
         <div class="bg-gray-50 p-10 rounded-2xl text-center border border-gray-200">
           <div class="bg-gray-200 border-2 border-dashed rounded-xl w-24 h-24 mx-auto mb-6"></div>
-          <h3 class="text-2xl font-bold mb-3">Luxury Listing Template</h3>
-          <p class="text-gray-600">High-end property showcase prototype</p>
+          <h3 class="text-2xl font-bold mb-3">Isola Bella Genie Reel</h3>
+          <p class="text-gray-600 mb-4">Voice-narrated buyer magnet with concierge CTA</p>
+          <a href="isola-bella-genie-reel.mp4" class="bg-amber-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-800">Play Reel →</a>
         </div>
+
       </div>
     </div>
   </div>
